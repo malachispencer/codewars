@@ -77,7 +77,6 @@ function maxSequence(arr) {
   for (let i = 1; i < arr.length; i++) {
     currentSum = Math.max(currentSum + arr[i], arr[i]);
     maxSum = Math.max(maxSum, currentSum);
-    console.log([currentSum, maxSum])
   }
 
   return maxSum;
