@@ -1,6 +1,6 @@
 /*
 Codewars. 14/07/20. 'Big integers sum'. 6kyu. Here we create a function that sums extremely large integers, which come in the form of 
-strings. This time however, there can be more than 2 numbers as input. Here is the solution I developed to solve the challenge.
+strings. There can be more than 2 numbers as input. Here is the solution I used to solve the challenge.
 1) We define our function sumBigIntsMS, which takes any number of arguments, thus we use the spread operator for nums.
 2) First we handle some error checking, if the length of nums is 1 or 0, we return '0'. nums is an array.
 3) We then standardize our input, converting all our numbers to strings, in case integers were submitted as input.
