@@ -1,2 +1,7 @@
 # codewars
-Repo of my write ups for Codewars kata. A write up includes my solution plus one or two alternative solutions from other Codewars users. All solutions come with detailed explanations. This is a useful resource for anyone looking for Codewars solutions in Ruby or JavaScript.
+
+Here you will find my write ups for Codewars kata. A write up includes my solution plus one or two alternative solutions from other Codewars users. All solutions come with detailed explanations. Write ups look as follows:
+
+![write-up-example](https://user-images.githubusercontent.com/71923215/95463577-33390600-0979-11eb-8acd-010c082ce0bd.jpg)
+
+This repository contains almost 300 Codewars kata.
