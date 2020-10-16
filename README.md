@@ -5,3 +5,5 @@ Here you will find my write ups for Codewars kata. A write up includes my soluti
 ![write-up-example](https://user-images.githubusercontent.com/71923215/95463577-33390600-0979-11eb-8acd-010c082ce0bd.jpg)
 
 This repository contains almost 300 Codewars kata.
+
+<a href="https://www.codewars.com/users/mjsspencer" target="_blank">My Codewars Profile</a>
