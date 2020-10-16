@@ -6,4 +6,4 @@ Here you will find my write ups for Codewars kata. A write up includes my soluti
 
 This repository contains almost 300 Codewars kata.
 
-<a href="https://www.codewars.com/users/mjsspencer" target="_blank">My Codewars Profile</a>
+[My Codewars Profile](https://www.codewars.com/users/mjsspencer)
