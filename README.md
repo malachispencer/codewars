@@ -4,7 +4,7 @@
 
 In teaching myself to code, much of March 2020 to September 2020 consisted of doing Codewars challenges. 
 
-Codewars is an excellent resource for learning a programming language while simultaneously improving your problem solving skills and excercising your logical thinking skills.
+Codewars is an excellent resource for learning a programming language while simultaneously improving your problem solving skills and exercising your logical thinking skills.
 
 Here in this repository you will find solutions for roughly 100 kata in JavaScript and almost 200 kata in Ruby.
 
